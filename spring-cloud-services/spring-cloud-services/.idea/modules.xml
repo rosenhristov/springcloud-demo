@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-services.iml" filepath="$PROJECT_DIR$/spring-cloud-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/audit-log-service/spring-cloud-services.audit-log-service.iml" filepath="$PROJECT_DIR$/audit-log-service/spring-cloud-services.audit-log-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/spring-cloud-services.config-server.iml" filepath="$PROJECT_DIR$/config-server/spring-cloud-services.config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/spring-cloud-services.eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/spring-cloud-services.eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-admin-server/spring-cloud-services.springboot-admin-server.iml" filepath="$PROJECT_DIR$/springboot-admin-server/spring-cloud-services.springboot-admin-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student-microservice/spring-cloud-services.student-service.iml" filepath="$PROJECT_DIR$/student-microservice/spring-cloud-services.student-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zipkin-server-in-memory/spring-cloud-services.zipkin-server-in-memory.iml" filepath="$PROJECT_DIR$/zipkin-server-in-memory/spring-cloud-services.zipkin-server-in-memory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zipkin-stream-server/spring-cloud-services.zipkin-stream-server.iml" filepath="$PROJECT_DIR$/zipkin-stream-server/spring-cloud-services.zipkin-stream-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-server/spring-cloud-services.zuul-server.iml" filepath="$PROJECT_DIR$/zuul-server/spring-cloud-services.zuul-server.iml" />
+    </modules>
+  </component>
+</project>

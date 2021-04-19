@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-cloud-services.zuul-server" />
+        <module name="spring-cloud-services.springboot-admin-server" />
+        <module name="spring-cloud-services.audit-log-service" />
+        <module name="spring-cloud-services.zipkin-stream-server" />
+        <module name="spring-cloud-services.student-service" />
+        <module name="spring-cloud-services.eureka-server" />
+        <module name="spring-cloud-services.config-server" />
+        <module name="spring-cloud-services.zipkin-server-in-memory" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-cloud-services" target="1.8" />
+      <module name="spring-cloud-services.audit-log-service" target="1.8" />
+      <module name="spring-cloud-services.config-server" target="1.8" />
+      <module name="spring-cloud-services.eureka-server" target="1.8" />
+      <module name="spring-cloud-services.springboot-admin-server" target="1.8" />
+      <module name="spring-cloud-services.student-service" target="1.8" />
+      <module name="spring-cloud-services.zipkin-server-in-memory" target="1.8" />
+      <module name="spring-cloud-services.zipkin-stream-server" target="1.8" />
+      <module name="spring-cloud-services.zuul-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

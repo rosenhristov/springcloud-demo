@@ -1,0 +1,27 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.springboot.property.AddressProperty",
+      "name": "address",
+      "type": "com.springboot.property.AddressProperty"
+    },
+    {
+      "sourceType": "com.springboot.property.StudentProperty",
+      "name": "student",
+      "type": "com.springboot.property.StudentProperty"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.springboot.property.AddressProperty",
+      "name": "address.property",
+      "type": "java.util.List<com.springboot.property.Property>"
+    },
+    {
+      "sourceType": "com.springboot.property.StudentProperty",
+      "name": "student.property",
+      "type": "java.util.List<com.springboot.property.Property>"
+    }
+  ]
+}
